@@ -58,6 +58,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{B6
 		DenProje\Villa_Den001.3dmx = DenProje\Villa_Den001.3dmx
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dlls", "Dlls", "{4C7343EB-2A00-4DC4-88FA-01EF9526ECE6}"
+EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
 		SccNumberOfProjects = 3
@@ -107,5 +109,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{7D2954D5-33A0-49EC-B531-74F7FD0E84A9} = {90EBB86E-CDBD-48EA-A99C-C83408CDE4BE}
 		{B6622248-B85D-47A5-823B-6FE906F170BC} = {90EBB86E-CDBD-48EA-A99C-C83408CDE4BE}
+		{4C7343EB-2A00-4DC4-88FA-01EF9526ECE6} = {90EBB86E-CDBD-48EA-A99C-C83408CDE4BE}
 	EndGlobalSection
 EndGlobal

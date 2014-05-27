@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CustomUI">
+</Property><Property Name="Solution File" Value="F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\CustomUI.sln">
+</Property><Property Name="Date" Value="17 Şubat 2009 Salı">
+</Property><Property Name="Time" Value="16:55">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CustomUI.sln" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\CustomUI.sln">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="CustomUI.csproj" Description="Project file successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\CustomUI.csproj">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\AssemblyInfo.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmut.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmut.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutdata.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutdata.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutenum.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutenum.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutexception.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutexception.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutgui.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutgui.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutmesh.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutmesh.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutmisc.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutmisc.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\dxmutSettingsDlg.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\dxmutSettingsDlg.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="CustomUI.cs" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\CustomUI.cs">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="CustomUI.fx" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\CustomUI.fx">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="Common\directx.ico" Description="File successfully backed up as F:\OGU\Visual Studio 2005\Projects\DirectX Tutorials\CustomUI\Backup\Common\directx.ico">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="CustomUI.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomUI" Source="CustomUI.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CustomUI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CustomUI.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomUI" Source="CustomUI.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
