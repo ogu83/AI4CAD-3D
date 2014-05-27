@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Editor version="1.0">
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\MatlabNET1\MatlabNET1" lastWrittenTime="1215701066128" name="Toplama.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216028693108" name="MDet.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216028704871" name="MInv.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216028717273" name="MSolve.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216028790591" name="MEig.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216028851180" name="MEiv.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216029688949" name="MEchalon.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216029842725" name="MTranspose.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216029884969" name="MMult.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216029941575" name="MAdd.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216045866754" name="OnePi.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216049683665" name="DecTOBase.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216050225313" name="BaseTODec.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216050367466" name="DegTORad.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1216051045571" name="Fact.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1222559813060" name="RadTODeg.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1222559844800" name="ProductDot.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1222559844848" name="PolyRoots.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1222559983144" name="ProductCross.m">
+      <CodeFolds version="1.0"/>
+   </File>
+   <File absPath="F:\OGU\Visual Studio 2005\Projects\MathlabCalisma\Calculus Project" lastWrittenTime="1222561877449" name="IsPinABC.m">
+      <CodeFolds version="1.0"/>
+   </File>
+</Editor>

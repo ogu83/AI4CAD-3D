@@ -1,0 +1,186 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.08|$
+
+[PLUGINS]
+C:\Program Files\QuickTime\Plugins\npqtplugin.dll|$
+|$
+1213462429388|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+7
+0|application/sdp|SDP stream descriptor|sdp|$
+1|application/x-sdp|SDP stream descriptor|sdp|$
+2|application/x-rtsp|RTSP stream descriptor|rtsp,rts|$
+3|video/quicktime|QuickTime Movie|mov,qt,mqv|$
+4|video/flc|AutoDesk Animator (FLC)|flc,fli,cel|$
+5|audio/x-wav|WAVE audio|wav,bwf|$
+6|audio/wav|WAVE audio|wav,bwf|$
+C:\Program Files\QuickTime\Plugins\npqtplugin2.dll|$
+|$
+1213462429474|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+7
+0|audio/aiff|AIFF audio|aiff,aif,aifc,cdda|$
+1|audio/x-aiff|AIFF audio|aiff,aif,aifc,cdda|$
+2|audio/basic|uLaw/AU audio|au,snd,ulw|$
+3|audio/mid|MIDI|mid,midi,smf,kar|$
+4|audio/x-midi|MIDI|mid,midi,smf,kar|$
+5|audio/midi|MIDI|mid,midi,smf,kar|$
+6|audio/vnd.qcelp|QUALCOMM PureVoice audio|qcp|$
+C:\Program Files\QuickTime\Plugins\npqtplugin3.dll|$
+|$
+1213462429522|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+6
+0|audio/x-gsm|GSM audio|gsm|$
+1|audio/AMR|AMR audio|AMR|$
+2|audio/aac|AAC audio|aac,adts|$
+3|audio/x-aac|AAC audio|aac,adts|$
+4|audio/x-caf|CAF audio|caf|$
+5|video/x-mpeg|MPEG media|mpeg,mpg,m1s,m1v,m1a,m75,m15,mp2,mpm,mpv,mpa|$
+C:\Program Files\QuickTime\Plugins\npqtplugin4.dll|$
+|$
+1213462429541|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+4
+0|video/mpeg|MPEG media|mpeg,mpg,m1s,m1v,m1a,m75,m15,mp2,mpm,mpv,mpa|$
+1|audio/mpeg|MPEG audio|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|$
+2|audio/x-mpeg|MPEG audio|mpeg,mpg,m1s,m1a,mp2,mpm,mpa,m2a|$
+3|video/3gpp|3GPP media|3gp,3gpp|$
+C:\Program Files\QuickTime\Plugins\npqtplugin5.dll|$
+|$
+1213462429580|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+10
+0|audio/3gpp|3GPP media|3gp,3gpp|$
+1|video/3gpp2|3GPP2 media|3g2,3gp2|$
+2|audio/3gpp2|3GPP2 media|3g2,3gp2|$
+3|video/sd-video|SD video|sdv|$
+4|application/x-mpeg|AMC media|amc|$
+5|video/mp4|MPEG-4 media|mp4|$
+6|audio/mp4|MPEG-4 media|mp4|$
+7|audio/x-m4a|AAC audio|m4a|$
+8|audio/x-m4p|AAC audio (protected)|m4p|$
+9|audio/x-m4b|AAC audio book|m4b|$
+C:\Program Files\QuickTime\Plugins\npqtplugin6.dll|$
+|$
+1213462429608|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+9
+0|video/x-m4v|Video (protected)|m4v|$
+1|image/x-macpaint|MacPaint image|pntg,pnt,mac|$
+2|image/pict|PICT image|pict,pic,pct|$
+3|image/x-pict|PICT image|pict,pic,pct|$
+4|image/png|PNG image|png|$
+5|image/x-png|PNG image|png|$
+6|image/x-quicktime|QuickTime image|qtif,qti|$
+7|image/x-sgi|SGI image|sgi,rgb|$
+8|image/x-targa|TGA image|targa,tga|$
+C:\Program Files\QuickTime\Plugins\npqtplugin7.dll|$
+|$
+1213462429639|1|5|$
+The QuickTime Plugin allows you to view a wide variety of multimedia content in Web pages. For more information, visit the <A HREF=http://www.apple.com/quicktime/>QuickTime</A> Web site.|$
+QuickTime Plug-in 7.1.3|$
+6
+0|image/tiff|TIFF image|tif,tiff|$
+1|image/x-tiff|TIFF image|tif,tiff|$
+2|image/jp2|JPEG2000 image|jp2|$
+3|image/jpeg2000|JPEG2000 image|jp2|$
+4|image/jpeg2000-image|JPEG2000 image|jp2|$
+5|image/x-jpeg2000-image|JPEG2000 image|jp2|$
+C:\Program Files\Adobe\Reader 9.0\Reader\browser\nppdf32.dll|$
+|$
+1213213528000|1|5|$
+Adobe PDF Plug-In For Firefox and Netscape|$
+Adobe Acrobat|$
+7
+0|application/pdf|Acrobat Portable Document Format|pdf|$
+1|application/vnd.adobe.pdfxml|Adobe PDF in XML Format|pdfxml|$
+2|application/vnd.adobe.x-mars|Adobe PDF in XML Format|mars|$
+3|application/vnd.fdf|Acrobat Forms Data Format|fdf|$
+4|application/vnd.adobe.xfdf|XML Version of Acrobat Forms Data Format|xfdf|$
+5|application/vnd.adobe.xdp+xml| Acrobat XML Data Package|xdp|$
+6|application/vnd.adobe.xfd+xml|Adobe FormFlow99 Data File|xfd|$
+C:\Program Files\VideoLAN\VLC\npvlc.dll|$
+|$
+1221380352000|1|5|$
+Version 0.9.2, copyright 1996-2008 The VideoLAN Team<br><a href="http://www.videolan.org/">http://www.videolan.org/</a>|$
+VLC Multimedia Plug-in|$
+31
+0|audio/mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+1|audio/x-mpeg|MPEG audio|mp2,mp3,mpga,mpega|$
+2|video/mpeg|MPEG video|mpg,mpeg,mpe|$
+3|video/x-mpeg|MPEG video|mpg,mpeg,mpe|$
+4|video/mpeg-system|MPEG video|mpg,mpeg,vob|$
+5|video/x-mpeg-system|MPEG video|mpg,mpeg,vob|$
+6|video/mp4|MPEG-4 video|mp4,mpg4|$
+7|audio/mp4|MPEG-4 audio|mp4,mpg4|$
+8|application/mpeg4-iod|MPEG-4 video|mp4,mpg4|$
+9|application/mpeg4-muxcodetable|MPEG-4 video|mp4,mpg4|$
+10|video/x-msvideo|AVI video|avi|$
+11|video/quicktime|QuickTime video|mov,qt|$
+12|application/x-ogg|Ogg stream|ogg|$
+13|application/ogg|Ogg stream|ogg|$
+14|application/x-vlc-plugin|VLC plug-in|vlc|$
+15|video/x-ms-asf-plugin|Windows Media video|asf,asx|$
+16|video/x-ms-asf|Windows Media video|asf,asx|$
+17|application/x-mplayer2|Windows Media plug-in||$
+18|video/x-ms-wmv|Windows Media video|wmv|$
+19|application/x-google-vlc-plugin|Google VLC plug-in||$
+20|audio/wav|WAV audio|wav|$
+21|audio/x-wav|WAV audio|wav|$
+22|audio/3gpp|3GPP audio|3gp,3gpp|$
+23|video/3gpp|3GPP video|3gp,3gpp|$
+24|audio/3gpp2|3GPP2 audio|3g2,3gpp2|$
+25|video/3gpp2|3GPP2 video|3g2,3gpp2|$
+26|video/divx|DivX video|divx|$
+27|video/flv|FLV video|flv|$
+28|video/x-flv|FLV video|flv|$
+29|video/x-matroska|Matroska video|mkv|$
+30|audio/x-matroska|Matroska audio|mka|$
+C:\Windows\Microsoft.NET\Framework\v3.5\Windows Presentation Foundation\NPWPF.dll|$
+|$
+1194451358000|1|5|$
+Windows Presentation Foundation (WPF) plug-in for Mozilla browsers|$
+Windows Presentation Foundation|$
+2
+0|application/x-ms-xbap|XAML Browser Application|xbap|$
+1|application/xaml+xml|XAML Document|xaml|$
+C:\Program Files\Microsoft Silverlight\2.0.30523.8\npctrl.1.0.30401.0.dll|$
+|$
+1214836666000|1|5|$
+2.0.30523.8|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2-b2|||$
+C:\Program Files\Microsoft Silverlight\2.0.30523.8\npctrl.dll|$
+|$
+1214836666000|1|13|$
+2.0.30523.8|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2-b2|||$
+C:\Program Files\Microsoft Silverlight\2.0.30523.6\npctrl.dll|$
+|$
+1212576790000|1|13|$
+2.0.30523.6|$
+Silverlight Plug-In|$
+2
+0|application/x-silverlight|npctrl|scr|$
+1|application/x-silverlight-2-b2|||$
+C:\Program Files\Microsoft Silverlight\npctrl.dll|$
+|$
+1206988120000|1|13|$
+1.0.30401.0|$
+Silverlight Plug-In|$
+1
+0|application/x-silverlight|npctrl|scr|$
