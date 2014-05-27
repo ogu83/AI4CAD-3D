@@ -1,0 +1,111 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AI4CAD-3D", "AI4CAD3D\AI4CAD-3D.vbproj", "{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KeyGen", "KeyGen\KeyGen.vbproj", "{831198ED-3DCF-4C7D-9EC3-D111797872E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{90EBB86E-CDBD-48EA-A99C-C83408CDE4BE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screenshots", "Screenshots", "{7D2954D5-33A0-49EC-B531-74F7FD0E84A9}"
+	ProjectSection(SolutionItems) = preProject
+		Tanıtım Fotorafları\001.png = Tanıtım Fotorafları\001.png
+		Tanıtım Fotorafları\002.png = Tanıtım Fotorafları\002.png
+		Tanıtım Fotorafları\003.png = Tanıtım Fotorafları\003.png
+		Tanıtım Fotorafları\004.png = Tanıtım Fotorafları\004.png
+		Tanıtım Fotorafları\005.png = Tanıtım Fotorafları\005.png
+		Tanıtım Fotorafları\006.png = Tanıtım Fotorafları\006.png
+		Tanıtım Fotorafları\007.png = Tanıtım Fotorafları\007.png
+		Tanıtım Fotorafları\008.png = Tanıtım Fotorafları\008.png
+		Tanıtım Fotorafları\009.png = Tanıtım Fotorafları\009.png
+		Tanıtım Fotorafları\010.png = Tanıtım Fotorafları\010.png
+		Tanıtım Fotorafları\011.png = Tanıtım Fotorafları\011.png
+		Tanıtım Fotorafları\012.png = Tanıtım Fotorafları\012.png
+		Tanıtım Fotorafları\013.png = Tanıtım Fotorafları\013.png
+		Tanıtım Fotorafları\014.png = Tanıtım Fotorafları\014.png
+		Tanıtım Fotorafları\015.png = Tanıtım Fotorafları\015.png
+		Tanıtım Fotorafları\016.png = Tanıtım Fotorafları\016.png
+		Tanıtım Fotorafları\017.png = Tanıtım Fotorafları\017.png
+		Tanıtım Fotorafları\018.png = Tanıtım Fotorafları\018.png
+		Tanıtım Fotorafları\019.png = Tanıtım Fotorafları\019.png
+		Tanıtım Fotorafları\020.png = Tanıtım Fotorafları\020.png
+		Tanıtım Fotorafları\021.png = Tanıtım Fotorafları\021.png
+		Tanıtım Fotorafları\022.png = Tanıtım Fotorafları\022.png
+		Tanıtım Fotorafları\023.png = Tanıtım Fotorafları\023.png
+		Tanıtım Fotorafları\024.png = Tanıtım Fotorafları\024.png
+		Tanıtım Fotorafları\025.png = Tanıtım Fotorafları\025.png
+		Tanıtım Fotorafları\Help01.png = Tanıtım Fotorafları\Help01.png
+		Tanıtım Fotorafları\Help02.png = Tanıtım Fotorafları\Help02.png
+		Tanıtım Fotorafları\Help03.png = Tanıtım Fotorafları\Help03.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examples", "Examples", "{B6622248-B85D-47A5-823B-6FE906F170BC}"
+	ProjectSection(SolutionItems) = preProject
+		DenProje\AI4CAD Holding Bina.3dmx = DenProje\AI4CAD Holding Bina.3dmx
+		DenProje\Apartman.3dmx = DenProje\Apartman.3dmx
+		DenProje\asd.jpg = DenProje\asd.jpg
+		DenProje\BeniOku.txt = DenProje\BeniOku.txt
+		DenProje\bos.3dm = DenProje\bos.3dm
+		DenProje\bos.3dmx = DenProje\bos.3dmx
+		DenProje\Den1.3dm = DenProje\Den1.3dm
+		DenProje\Den1.3dmx = DenProje\Den1.3dmx
+		DenProje\Den2.3dm = DenProje\Den2.3dm
+		DenProje\shot1.png = DenProje\shot1.png
+		DenProje\shot2.tiff = DenProje\shot2.tiff
+		DenProje\tasiyici sistem.3dm = DenProje\tasiyici sistem.3dm
+		DenProje\villa001.dxf = DenProje\villa001.dxf
+		DenProje\Villa_Den001.3dm = DenProje\Villa_Den001.3dm
+		DenProje\Villa_Den001.3dmx = DenProje\Villa_Den001.3dmx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs18
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AI4CAD3D\\AI4CAD-3D.vbproj
+		SccProjectName1 = AI4CAD3D
+		SccLocalPath1 = AI4CAD3D
+		SccProjectUniqueName2 = KeyGen\\KeyGen.vbproj
+		SccProjectName2 = KeyGen
+		SccLocalPath2 = KeyGen
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5DC20AF0-AF40-461B-AFC3-A19DA21106C4}.Release|Win32.ActiveCfg = Release|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{831198ED-3DCF-4C7D-9EC3-D111797872E1}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7D2954D5-33A0-49EC-B531-74F7FD0E84A9} = {90EBB86E-CDBD-48EA-A99C-C83408CDE4BE}
+		{B6622248-B85D-47A5-823B-6FE906F170BC} = {90EBB86E-CDBD-48EA-A99C-C83408CDE4BE}
+	EndGlobalSection
+EndGlobal

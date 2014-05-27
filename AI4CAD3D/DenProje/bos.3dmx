@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Proje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>F:\OGU\Visual Studio 2005\Projects\AI4CAD 3D\DenProje\bos.xml</Name>
+  <Cams>
+    <CamType>
+      <Position>
+        <TranX>0</TranX>
+        <TranY>0</TranY>
+        <TranZ>-6</TranZ>
+        <AngleX>0</AngleX>
+        <AngleY>0</AngleY>
+        <AngleZ>0</AngleZ>
+      </Position>
+      <Name>Kamera(0)</Name>
+    </CamType>
+  </Cams>
+  <Aks>
+    <AksType>
+      <ID>0</ID>
+    </AksType>
+  </Aks>
+  <Katlar>
+    <KatType>
+      <Name>0</Name>
+      <Height>0</Height>
+    </KatType>
+  </Katlar>
+  <KatCurrentIndex>0</KatCurrentIndex>
+  <Metraj>
+    <MetrajType xsi:nil="true" />
+  </Metraj>
+  <MainLayer>
+    <Name>Ana Katman</Name>
+    <_ID>0</_ID>
+    <MyVisible>true</MyVisible>
+    <Layers>
+      <LayerClass xsi:nil="true" />
+    </Layers>
+    <Duvars>
+      <Duvar xsi:nil="true" />
+    </Duvars>
+  </MainLayer>
+  <ClearColorArgb>-16777216</ClearColorArgb>
+</Proje>
